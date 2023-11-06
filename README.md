@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Hi there 👋 My name is Md Nasim Mahmud. I'm 23 years old.Currently I am working as a Junior Software Engineer at TMSS ICT Limited. Previously I completed my Diploma in Computer Science and Technology from the TMSS Institute of Science and ICT Of Bangladesh,Bogura. I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth-oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career.
 ### 🎓 &nbsp; Education
 * Diploma in Computer Science & Technology. TMSS Institute of Science and ICT,Bogura
@@ -8,7 +8,7 @@ Hi there 👋 My name is Md Nasim Mahmud. I'm 23 years old.Currently I am workin
 [![Skype](https://img.shields.io/badge/Skype-join.skype.com-blue?logo=Skype&logoColor=white)](https://join.skype.com/invite/ypsdqX9qV2zB)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/letsgoNasim/)
 
-# 💻 Skills:
+## 💻 Skills:
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)]()
 [![Ajax](https://img.shields.io/badge/Ajax-%23239120.svg?style=for-the-badge&logo=ajax&logoColor=white)]()
@@ -21,7 +21,7 @@ Hi there 👋 My name is Md Nasim Mahmud. I'm 23 years old.Currently I am workin
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)]()
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dev-nasim&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-nasim&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nasim&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)

@@ -22,9 +22,14 @@ Hi there 👋 My name is Md Nasim Mahmud. I'm 23 years old.Currently I am workin
 
 
 ## 📊 GitHub Stats:
+![Profile views](https://komarev.com/ghpvc/?username=dev-nasim)
+
 ![](https://github-readme-stats.vercel.app/api?username=dev-nasim&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-nasim&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nasim&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dev-nasim&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)

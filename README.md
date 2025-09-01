@@ -2,6 +2,41 @@
 Hi there 👋 My name is Md Nasim Mahmud. I'm 23 years old.Currently I am working as a Junior Software Engineer at TMSS ICT Limited. Previously I completed my Diploma in Computer Science and Technology from the TMSS Institute of Science and ICT Of Bangladesh,Bogura. I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth-oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career.
 ### 🎓 &nbsp; Education
 * Diploma in Computer Science & Technology. TMSS Institute of Science and ICT,Bogura
+  
+## 🚀 Projects
+
+### 🧑‍💼 HR Management System [TMSS-ICT]
+- **Role:** Developer  
+- **Tools:** PHP, Laravel, MySQL, Vue.js
+
+### 🏦 Microfinance ERP [TMSS-ICT]
+- **Role:** Designer (Responsive)  
+- **Tools:** PHP, Laravel, MySQL, Vue.js  
+
+### 📩 Bulk SMS Service Application [TMSS-ICT]
+- **Role:** Developer  
+- **Tools:** PHP, Laravel, MySQL, Vue.js  
+
+### 🎓 Education Management System [TMSS-ICT]
+- **Role:** Developer  
+- **Tools:** PHP, Laravel, MySQL, Vue.js  
+
+### 💰 Simple Student Fees Collection Software [TMSS-ICT]
+- **Role:** Developer  
+- **Tools:** PHP, Laravel, MySQL, Vue.js  
+
+### 📦 Inventory Management System [TMSS-ICT]
+- **Role:** Developer  
+- **Tools:** PHP, Laravel, MySQL, JavaScript   
+
+### 💼 Provident Fund Management [TMSS-ICT]
+- **Role:** Developer  
+- **Tools:** PHP, Laravel, MySQL, Vue.js  
+
+### 📱 Digital Microfinance Credit Score (Mobile App) [TMSS-ICT]
+- **Role:** API Developer  
+- **Tools:** PHP, Laravel, MySQL
+  
 ## 🌐 Connect with me on Socials:
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=ef5350&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:letsgonasim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-nasim/)

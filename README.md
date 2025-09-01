@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi there 👋 My name is Md Nasim Mahmud. I'm 23 years old.Currently I am working as a Junior Software Engineer at TMSS ICT Limited. Previously I completed my Diploma in Computer Science and Technology from the TMSS Institute of Science and ICT Of Bangladesh,Bogura. I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth-oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career.
+Hi there 👋 My name is Md Nasim Mahmud. I'm 24 years old.Currently I am working as a Junior Software Engineer at TMSS ICT Limited. Previously I completed my Diploma in Computer Science and Technology from the TMSS Institute of Science and ICT Of Bangladesh,Bogura. I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth-oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career.
 ### 🎓 &nbsp; Education
 * Diploma in Computer Science & Technology. TMSS Institute of Science and ICT,Bogura
 * HSC - Chowrat Shibpur Barendraw College,Naogaon
